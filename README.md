@@ -1,6 +1,6 @@
 # students_projects
 
 Avtors:
-- 🎨 **[Masrur](https://github.com/abdimutalibovmasrur)**
+- 🎨 **[Muhammadali](https://github.com/Ali050617)**
 - 🛠️ **[Samandar](https://github.com/Samandar005)**
-- 🖼️ **[Damir](https://github.com/damirrustambek0v)**
+- 🖼️ **[Damir](https://github.com/Bunyodjon-Mamadaliyev)**
